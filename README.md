@@ -1,2 +1,2 @@
 # CCscrapper
-easu ccscrapper fast an easy to use
+easy ccscrapper fast an easy to use
